@@ -1,0 +1,9 @@
+{
+  "name": "dom-untils",
+  "version": "1.0.0",
+  "description": "easy dom helper",
+  "main": "index.js",
+  "repository": "https://github.com/YingQQQ/dom-untils.git",
+  "author": "YingQQQ <yingqi2008win@gmail.com>",
+  "license": "MIT"
+}

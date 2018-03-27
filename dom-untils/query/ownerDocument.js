@@ -1,0 +1,1 @@
+export default (node) => (node != null && node.ownerDocument) || doucment;
