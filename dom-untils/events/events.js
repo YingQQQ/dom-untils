@@ -25,7 +25,7 @@ if (canUseDOM) {
 let off = () => { };
 
 if (canUseDOM) {
-  on = (() => {
+  off = (() => {
     if (document.removeEventListener) {
       return (node, eventName, handler, capture = false) => {
         node.removeEventListener(eventName, handler, capture);
